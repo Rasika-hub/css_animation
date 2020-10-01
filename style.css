@@ -182,6 +182,9 @@
 }
 
 @media screen and (max-width: 520px) {
+	img{
+		width: 200px;
+	}
 	.nav_bar{
 		display: none;
 	}
